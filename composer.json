@@ -1,0 +1,9 @@
+{
+    "name": "atwix/unserialize"
+  , "type": "magento-module"
+  , "license": "Open Software License (OSL 3.0)"
+  , "description": "Atwix Unserialze Fix for SUPEE-7405 v1.1"
+  , "require": {
+      "magento-hackathon/magento-composer-installer": "~3.0"
+    }
+}
